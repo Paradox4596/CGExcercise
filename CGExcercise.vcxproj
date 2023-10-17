@@ -20,9 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitmapExample.h" />
+    <ClInclude Include="D2DFramework.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BitmapExample.cpp" />
+    <ClCompile Include="D2DFramework.cpp" />
+    <ClCompile Include="WinMain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
